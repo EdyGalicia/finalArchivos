@@ -1,0 +1,5 @@
+
+1) GET: localhost:3000/getUsuarios
+2) POST: localhost:3000/registro
+3) GET: localhost:3000/factura
+4) POST: localhost:3000/verCliente
